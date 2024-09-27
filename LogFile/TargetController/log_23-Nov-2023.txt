@@ -1,0 +1,18 @@
+23-Nov-2023 17:08:06-SelectLoadInHeader STARTED -23-11-2023 17:08:06
+23-Nov-2023 17:08:06-====================
+23-Nov-2023 17:08:11- SelectLoadInHeader Exception - Column 'itmCount' does not belong to table selPackSummHeadMTD.
+23-Nov-2023 17:08:11-SelectLoadInHeader ENDED - 23-11-2023 17:08:11
+23-Nov-2023 17:08:11-==================
+23-Nov-2023 18:11:35-SelectTargetPackageSummaryMTDDetails STARTED -23-11-2023 18:11:35
+23-Nov-2023 18:11:35-====================
+23-Nov-2023 18:11:40- SelectTargetSummaryMTDDetails Exception - Column 'itmCount' does not belong to table TT.
+23-Nov-2023 18:11:40-SelectTargetSummaryMTDDetails ENDED - 23-11-2023 18:11:40
+23-Nov-2023 18:11:40-==================
+23-Nov-2023 18:29:29-SelectTargetPackageSummaryMTDDetails STARTED -23-11-2023 18:29:29
+23-Nov-2023 18:29:29-====================
+23-Nov-2023 18:48:00-SelectTargetPackageSummaryMTDDetails STARTED -23-11-2023 18:48:00
+23-Nov-2023 18:48:00-====================
+23-Nov-2023 18:49:23-SelectTargetPackageSummaryMTDDetails STARTED -23-11-2023 18:49:23
+23-Nov-2023 18:49:23-====================
+23-Nov-2023 18:57:16-SelectTargetSummaryMTDDetails STARTED -23-11-2023 18:57:16
+23-Nov-2023 18:57:16-====================

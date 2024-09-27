@@ -1,0 +1,7 @@
+18-Jul-2024 18:23:50-GetMultipleInvoiceItem STARTED 18-07-2024 18:23:50
+18-Jul-2024 18:23:50-======================================
+18-Jul-2024 18:23:53-Column 'rrd_HUOM' does not belong to table TT.
+18-Jul-2024 18:23:53-GetMultipleInvoiceItem ENDED 18-07-2024 18:23:53
+18-Jul-2024 18:23:53-======================================
+18-Jul-2024 18:24:31-GetMultipleInvoiceItem STARTED 18-07-2024 18:24:31
+18-Jul-2024 18:24:31-======================================

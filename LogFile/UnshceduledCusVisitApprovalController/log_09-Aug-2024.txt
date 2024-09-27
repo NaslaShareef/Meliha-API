@@ -1,0 +1,68 @@
+09-Aug-2024 15:45:13-UnSchCusVisitApprovalHeader STARTED 09-08-2024 15:45:13
+09-Aug-2024 15:45:13-======================================
+09-Aug-2024 15:45:15-NoDataRes
+09-Aug-2024 15:45:15-UnSchCusVisitApprovalHeader ENDED 09-08-2024 15:45:15
+09-Aug-2024 15:45:15-======================================
+09-Aug-2024 15:45:19-UnSchCusVisitApprovalHeader STARTED 09-08-2024 15:45:19
+09-Aug-2024 15:45:19-======================================
+09-Aug-2024 15:45:34-UnSchCusVisitApprovalHeader STARTED 09-08-2024 15:45:34
+09-Aug-2024 15:45:34-======================================
+09-Aug-2024 15:45:47-UnSchCusVisitApprovalHeader STARTED 09-08-2024 15:45:47
+09-Aug-2024 15:45:47-======================================
+09-Aug-2024 15:46:16-UnSchCusVisitApprovalHeader STARTED 09-08-2024 15:46:16
+09-Aug-2024 15:46:16-======================================
+09-Aug-2024 16:22:08-ApproveUnSchCusVisit STARTED 09-08-2024 16:22:08
+09-Aug-2024 16:22:08-======================================
+09-Aug-2024 16:22:08-Unable to cast object of type 'MVC_API.Models.CustomerConnectHelper.PostVoidTransApprovalData' to type 'MVC_API.Models.UnSchCusVisitApprovalData'.
+09-Aug-2024 16:22:08-ApproveUnSchCusVisit ENDED 09-08-2024 16:22:08
+09-Aug-2024 16:22:08-======================================
+09-Aug-2024 16:23:10-ApproveUnSchCusVisit STARTED 09-08-2024 16:23:10
+09-Aug-2024 16:23:10-======================================
+09-Aug-2024 16:23:10-Unable to cast object of type 'MVC_API.Models.ApproveUnSchCusVisitIn' to type 'MVC_API.Models.UnSchCusVisitApprovalData'.
+09-Aug-2024 16:23:10-ApproveUnSchCusVisit ENDED 09-08-2024 16:23:10
+09-Aug-2024 16:23:10-======================================
+09-Aug-2024 16:24:25-ApproveUnSchCusVisit STARTED 09-08-2024 16:24:25
+09-Aug-2024 16:24:25-======================================
+09-Aug-2024 16:24:27-Column 'Descr' does not belong to table ApproveUnSchCusVisit.
+09-Aug-2024 16:24:27-ApproveUnSchCusVisit ENDED 09-08-2024 16:24:27
+09-Aug-2024 16:24:27-======================================
+09-Aug-2024 16:25:12-ApproveUnSchCusVisit STARTED 09-08-2024 16:25:12
+09-Aug-2024 16:25:12-======================================
+09-Aug-2024 16:25:13-Column 'Descr' does not belong to table ApproveUnSchCusVisit.
+09-Aug-2024 16:25:13-ApproveUnSchCusVisit ENDED 09-08-2024 16:25:13
+09-Aug-2024 16:25:13-======================================
+09-Aug-2024 16:26:51-ApproveUnSchCusVisit STARTED 09-08-2024 16:26:51
+09-Aug-2024 16:26:51-======================================
+09-Aug-2024 16:26:53-Column 'Descr' does not belong to table ApproveUnSchCusVisit.
+09-Aug-2024 16:26:53-ApproveUnSchCusVisit ENDED 09-08-2024 16:26:53
+09-Aug-2024 16:26:53-======================================
+09-Aug-2024 16:27:46-ApproveUnSchCusVisit STARTED 09-08-2024 16:27:46
+09-Aug-2024 16:27:46-======================================
+09-Aug-2024 16:27:46-Column 'Descr' does not belong to table ApproveUnSchCusVisit.
+09-Aug-2024 16:27:46-ApproveUnSchCusVisit ENDED 09-08-2024 16:27:46
+09-Aug-2024 16:27:46-======================================
+09-Aug-2024 16:28:43-ApproveUnSchCusVisit STARTED 09-08-2024 16:28:43
+09-Aug-2024 16:28:43-======================================
+09-Aug-2024 16:30:36-Column 'Descr' does not belong to table ApproveUnSchCusVisit.
+09-Aug-2024 16:30:36-ApproveUnSchCusVisit ENDED 09-08-2024 16:30:36
+09-Aug-2024 16:30:36-======================================
+09-Aug-2024 16:30:39-ApproveUnSchCusVisit STARTED 09-08-2024 16:30:39
+09-Aug-2024 16:30:39-======================================
+09-Aug-2024 16:33:46-ApproveUnSchCusVisit STARTED 09-08-2024 16:33:46
+09-Aug-2024 16:33:46-======================================
+09-Aug-2024 16:36:02-RejectUnSchCusVisit STARTED 09-08-2024 16:36:02
+09-Aug-2024 16:36:02-======================================
+09-Aug-2024 16:36:03-NoDataRes
+09-Aug-2024 16:36:03-RejectUnSchCusVisit ENDED 09-08-2024 16:36:03
+09-Aug-2024 16:36:03-======================================
+09-Aug-2024 16:36:22-RejectUnSchCusVisit STARTED 09-08-2024 16:36:22
+09-Aug-2024 16:36:22-======================================
+09-Aug-2024 16:36:22-NoDataRes
+09-Aug-2024 16:36:22-RejectUnSchCusVisit ENDED 09-08-2024 16:36:22
+09-Aug-2024 16:36:22-======================================
+09-Aug-2024 16:36:45-RejectUnSchCusVisit STARTED 09-08-2024 16:36:45
+09-Aug-2024 16:36:45-======================================
+09-Aug-2024 16:37:10-RejectUnSchCusVisit STARTED 09-08-2024 16:37:10
+09-Aug-2024 16:37:10-======================================
+09-Aug-2024 18:38:30-ApproveUnSchCusVisit STARTED 09-08-2024 18:38:30
+09-Aug-2024 18:38:30-======================================

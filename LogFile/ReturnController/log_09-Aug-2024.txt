@@ -1,0 +1,47 @@
+09-Aug-2024 19:51:29-PostScheduledReturnRequest STARTED 09-08-2024 19:51:29
+09-Aug-2024 19:51:29-============================================
+09-Aug-2024 19:51:29-PostScheduledReturnRequest json:[{"ItemId":"1","HigherUOM":"1","HigherQty":"10","LowerUOM":"2","LowerQty":"5","ReasonId":"1","HigherPrice":"100","LowerPrice":"50","LineTotal":"11","Vat":"11","GrandTotal":"1100"},{"ItemId":"4","HigherUOM":"1","HigherQty":"10","LowerUOM":"2","LowerQty":"5","ReasonId":"1","HigherPrice":"100","LowerPrice":"50","LineTotal":"11","Vat":"11","GrandTotal":"1000"}]
+09-Aug-2024 19:51:29-PostScheduledReturnRequest InputXml:
+09-Aug-2024 19:55:44-Object reference not set to an instance of an object.
+09-Aug-2024 19:55:44-Cannot use a leading .. to exit above the top directory.
+09-Aug-2024 19:55:44-PostScheduledReturnRequest ENDED 09-08-2024 19:55:44
+09-Aug-2024 19:55:44-========================================
+09-Aug-2024 19:55:49-PostScheduledReturnRequest STARTED 09-08-2024 19:55:49
+09-Aug-2024 19:55:49-============================================
+09-Aug-2024 19:55:49-PostScheduledReturnRequest json:[{"ItemId":"1","HigherUOM":"1","HigherQty":"10","LowerUOM":"2","LowerQty":"5","ReasonId":"1","HigherPrice":"100","LowerPrice":"50","LineTotal":"11","Vat":"11","GrandTotal":"1100"},{"ItemId":"4","HigherUOM":"1","HigherQty":"10","LowerUOM":"2","LowerQty":"5","ReasonId":"1","HigherPrice":"100","LowerPrice":"50","LineTotal":"11","Vat":"11","GrandTotal":"1000"}]
+09-Aug-2024 19:55:49-PostScheduledReturnRequest InputXml:
+09-Aug-2024 19:56:42-Object reference not set to an instance of an object.
+09-Aug-2024 19:56:42-Cannot use a leading .. to exit above the top directory.
+09-Aug-2024 19:56:42-PostScheduledReturnRequest ENDED 09-08-2024 19:56:42
+09-Aug-2024 19:56:42-========================================
+09-Aug-2024 19:57:41-PostScheduledReturnRequest STARTED 09-08-2024 19:57:41
+09-Aug-2024 19:57:41-============================================
+09-Aug-2024 19:57:41-PostScheduledReturnRequest json:[{"ItemId":"1","HigherUOM":"1","HigherQty":"10","LowerUOM":"2","LowerQty":"5","ReasonId":"1","HigherPrice":"100","LowerPrice":"50","LineTotal":"11","Vat":"11","GrandTotal":"1100"},{"ItemId":"4","HigherUOM":"1","HigherQty":"10","LowerUOM":"2","LowerQty":"5","ReasonId":"1","HigherPrice":"100","LowerPrice":"50","LineTotal":"11","Vat":"11","GrandTotal":"1000"}]
+09-Aug-2024 19:57:41-PostScheduledReturnRequest InputXml:
+09-Aug-2024 19:57:44-Object reference not set to an instance of an object.
+09-Aug-2024 19:57:45-Cannot use a leading .. to exit above the top directory.
+09-Aug-2024 19:57:45-PostScheduledReturnRequest ENDED 09-08-2024 19:57:45
+09-Aug-2024 19:57:45-========================================
+09-Aug-2024 19:58:06-PostScheduledReturnRequest STARTED 09-08-2024 19:58:06
+09-Aug-2024 19:58:06-============================================
+09-Aug-2024 19:58:06-PostScheduledReturnRequest json:[{"ItemId":"1","HigherUOM":"1","HigherQty":"10","LowerUOM":"2","LowerQty":"5","ReasonId":"1","HigherPrice":"100","LowerPrice":"50","LineTotal":"11","Vat":"11","GrandTotal":"1100"},{"ItemId":"4","HigherUOM":"1","HigherQty":"10","LowerUOM":"2","LowerQty":"5","ReasonId":"1","HigherPrice":"100","LowerPrice":"50","LineTotal":"11","Vat":"11","GrandTotal":"1000"}]
+09-Aug-2024 19:58:06-PostScheduledReturnRequest InputXml:
+09-Aug-2024 19:58:53-Object reference not set to an instance of an object.
+09-Aug-2024 19:58:53-Cannot use a leading .. to exit above the top directory.
+09-Aug-2024 19:58:53-PostScheduledReturnRequest ENDED 09-08-2024 19:58:53
+09-Aug-2024 19:58:53-========================================
+09-Aug-2024 19:58:57-PostScheduledReturnRequest STARTED 09-08-2024 19:58:57
+09-Aug-2024 19:58:57-============================================
+09-Aug-2024 19:58:57-PostScheduledReturnRequest json:[{"ItemId":"2","HigherUOM":"1","HigherQty":"10","LowerUOM":"2","LowerQty":"5","ReasonId":"1","HigherPrice":"100","LowerPrice":"50","LineTotal":"11","Vat":"11","GrandTotal":"1100"},{"ItemId":"4","HigherUOM":"1","HigherQty":"10","LowerUOM":"2","LowerQty":"5","ReasonId":"1","HigherPrice":"100","LowerPrice":"50","LineTotal":"11","Vat":"11","GrandTotal":"1000"}]
+09-Aug-2024 19:58:57-PostScheduledReturnRequest InputXml:
+09-Aug-2024 20:01:05-Object reference not set to an instance of an object.
+09-Aug-2024 20:01:05-Cannot use a leading .. to exit above the top directory.
+09-Aug-2024 20:01:05-PostScheduledReturnRequest ENDED 09-08-2024 20:01:05
+09-Aug-2024 20:01:05-========================================
+09-Aug-2024 20:01:08-PostScheduledReturnRequest STARTED 09-08-2024 20:01:08
+09-Aug-2024 20:01:08-============================================
+09-Aug-2024 20:01:08-PostScheduledReturnRequest json:[{"prdID":"2","HigherUOM":"1","HigherQty":"10","LowerUOM":"2","LowerQty":"5","ReasonId":"1","HigherPrice":"100","LowerPrice":"50","LineTotal":"11","Vat":"11","GrandTotal":"1100"},{"prdID":"4","HigherUOM":"1","HigherQty":"10","LowerUOM":"2","LowerQty":"5","ReasonId":"1","HigherPrice":"100","LowerPrice":"50","LineTotal":"11","Vat":"11","GrandTotal":"1000"}]
+09-Aug-2024 20:01:08-PostScheduledReturnRequest InputXml:
+09-Aug-2024 20:01:21-Cannot use a leading .. to exit above the top directory.
+09-Aug-2024 20:01:22-PostScheduledReturnRequest ENDED 09-08-2024 20:01:22
+09-Aug-2024 20:01:22-========================================

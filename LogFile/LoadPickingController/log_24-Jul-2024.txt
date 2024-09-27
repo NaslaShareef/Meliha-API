@@ -1,0 +1,4 @@
+24-Jul-2024 15:36:23-==========GetAssignedPickHeader Started==========
+24-Jul-2024 15:36:25-==========Query Executed==========
+24-Jul-2024 15:36:25-==========Row Count Greated Than 0==========
+24-Jul-2024 15:36:25-==========JSONString Generated {"result":[{"PickingID":"14","Number":"PKH00911","UserID":"MOHAMMED SHABIN ","Status":"P","Reason":"0","StoreID":"2","Date":"15 Jul 2024","Username":null,"store":"Store 2","PickedBy":"MOHAMMED SHABIN ","User_ArName":"مستخدم","ArPickedBy":"مستخدم","Arstore":"محل"}]}==========

@@ -1,0 +1,48 @@
+18-Nov-2023 14:26:24-SelectAreaForCusInsHome STARTED -18-11-2023 14:26:24
+18-Nov-2023 14:26:24-====================
+18-Nov-2023 14:28:56-SelectSubAreaForCusInsHome STARTED -18-11-2023 14:28:56
+18-Nov-2023 14:28:56-====================
+18-Nov-2023 14:29:25-SelectRouteForCusInsHome STARTED -18-11-2023 14:29:25
+18-Nov-2023 14:29:26-====================
+18-Nov-2023 14:29:26-SelectRouteForCusInsHome ENDED - 18-11-2023 14:29:26
+18-Nov-2023 14:29:26-==================
+18-Nov-2023 14:29:34-SelectRouteForCusInsHome STARTED -18-11-2023 14:29:34
+18-Nov-2023 14:29:34-====================
+18-Nov-2023 14:29:34-SelectRouteForCusInsHome ENDED - 18-11-2023 14:29:34
+18-Nov-2023 14:29:34-==================
+18-Nov-2023 14:29:54-SelectRouteForCusInsHome STARTED -18-11-2023 14:29:54
+18-Nov-2023 14:29:54-====================
+18-Nov-2023 14:29:55-SelectRouteForCusInsHome ENDED - 18-11-2023 14:29:55
+18-Nov-2023 14:29:55-==================
+18-Nov-2023 14:30:18-SelectRouteForCusInsHome STARTED -18-11-2023 14:30:17
+18-Nov-2023 14:30:18-====================
+18-Nov-2023 16:58:17-SelectAllCustomerInsight STARTED 
+18-Nov-2023 16:58:17-==============================
+18-Nov-2023 16:58:53-SelectAllCustomerInsight STARTED 
+18-Nov-2023 16:58:53-==============================
+18-Nov-2023 16:59:19-SelectAllCustomerInsight STARTED 
+18-Nov-2023 16:59:19-==============================
+18-Nov-2023 16:59:54-SelectAllCustomerInsight STARTED 
+18-Nov-2023 16:59:55-==============================
+18-Nov-2023 17:15:20-SelectAllCustomerInsight STARTED 
+18-Nov-2023 17:15:20-==============================
+18-Nov-2023 17:19:53-SelectAllCustomerInsight STARTED 
+18-Nov-2023 17:19:53-==============================
+18-Nov-2023 17:19:53-NoDataRes
+18-Nov-2023 17:19:53-SelectAllCustomerInsight ENDED 
+18-Nov-2023 17:19:53-==========================
+18-Nov-2023 17:22:10-SelectAllCustomerInsight STARTED 
+18-Nov-2023 17:22:10-==============================
+18-Nov-2023 17:43:17-SelectAllCustomerInsight STARTED 
+18-Nov-2023 17:43:17-==============================
+18-Nov-2023 17:44:16-SelectAllCustomerInsight STARTED 
+18-Nov-2023 17:44:17-==============================
+18-Nov-2023 17:46:55-SelectAllCustomerInsight STARTED 
+18-Nov-2023 17:46:55-==============================
+18-Nov-2023 17:50:56-SelectAllCustomerInsight STARTED 
+18-Nov-2023 17:50:56-==============================
+18-Nov-2023 17:51:06-NoDataRes
+18-Nov-2023 17:51:08-SelectAllCustomerInsight ENDED 
+18-Nov-2023 17:51:08-==========================
+18-Nov-2023 17:53:51-SelectAllCustomerInsight STARTED 
+18-Nov-2023 17:53:51-==============================

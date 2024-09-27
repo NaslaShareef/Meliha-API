@@ -1,0 +1,32 @@
+11-Sep-2024 16:38:53-CusInsightOutstandingHeader STARTED -11-09-2024 16:38:53
+11-Sep-2024 16:38:53-====================
+11-Sep-2024 16:40:48-CusInsightOutstandingHeader Exception - Object reference not set to an instance of an object.
+11-Sep-2024 16:40:48-CusInsightOutstandingHeader ENDED - 11-09-2024 16:40:48
+11-Sep-2024 16:40:48-==================
+11-Sep-2024 16:40:53-CusInsightOutstandingHeader STARTED -11-09-2024 16:40:53
+11-Sep-2024 16:40:53-====================
+11-Sep-2024 16:45:10-CusInsightOutStandingCount STARTED -11-09-2024 16:45:10
+11-Sep-2024 16:45:10-====================
+11-Sep-2024 16:45:19-CusInsightOutStandingCount Exception - Object reference not set to an instance of an object.
+11-Sep-2024 16:45:19-CusInsightOutStandingCount ENDED - 11-09-2024 16:45:19
+11-Sep-2024 16:45:19-==================
+11-Sep-2024 16:45:32-CusInsightOutStandingCount STARTED -11-09-2024 16:45:32
+11-Sep-2024 16:45:32-====================
+11-Sep-2024 16:49:29-CusInsightOutStandingCount STARTED -11-09-2024 16:49:29
+11-Sep-2024 16:49:29-====================
+11-Sep-2024 16:51:31-CusInsightOutstandingHeader STARTED -11-09-2024 16:51:31
+11-Sep-2024 16:51:31-====================
+11-Sep-2024 17:05:01-CusInsightOutStandingCount STARTED -11-09-2024 17:05:01
+11-Sep-2024 17:05:01-====================
+11-Sep-2024 17:05:45-CusInsightOutStandingCount STARTED -11-09-2024 17:05:45
+11-Sep-2024 17:05:45-====================
+11-Sep-2024 17:06:01-CusInsightOutStandingCount STARTED -11-09-2024 17:06:01
+11-Sep-2024 17:06:01-====================
+11-Sep-2024 17:06:28-CusInsightOutStandingCount STARTED -11-09-2024 17:06:28
+11-Sep-2024 17:06:28-====================
+11-Sep-2024 17:10:18-CusInsightOutStandingCount STARTED -11-09-2024 17:10:18
+11-Sep-2024 17:10:18-====================
+11-Sep-2024 17:12:41-CusInsightOutstandingHeader STARTED -11-09-2024 17:12:41
+11-Sep-2024 17:12:41-====================
+11-Sep-2024 18:02:40-CusInsightOutStandingCount STARTED -11-09-2024 18:02:40
+11-Sep-2024 18:02:40-====================

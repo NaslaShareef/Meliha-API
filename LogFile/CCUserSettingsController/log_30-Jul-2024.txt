@@ -1,0 +1,8 @@
+30-Jul-2024 17:20:52-GetCCUserSettings STARTED 30-07-2024 17:20:52
+30-Jul-2024 17:20:52-============================================
+30-Jul-2024 17:20:58-Column 'Status' does not belong to table SelCCUserSettings.
+30-Jul-2024 17:20:58-GetCCUserSettings ENDED 30-07-2024 17:20:58
+30-Jul-2024 17:20:58-========================================
+30-Jul-2024 17:27:04-GetCCUserSettings STARTED 30-07-2024 17:27:04
+30-Jul-2024 17:27:04-============================================
+30-Jul-2024 17:27:06-==========JSONString Generated {"result":[{"InvTrans":"Y","CustTrans":"Y","SalesOrd":"Y","Approvals":"Y","CustInsight":"Y","Tracking":"Y","Promo":"Y","SpclPrice":"Y","Outstand":"Y","Target":"Y","ActReview":"Y","Merch":"Y","PriceChangeAppr":"Y","PartDelAppr":"Y","SchReturnAppr":"Y","RetAppr":"Y","DispNoteAppr":"Y","CredNoteAppr":"Y","AssAddAppr":"Y","AssRemAppr":"Y","VantoVanAppr":"Y","LoadTransAppr":"Y","JourPlanAppr":"Y","FieldServAppr":"Y","MatReqAppr":"Y","LoadReqAppr":"Y","InvReconfAppr":"Y","VoidTransAppr":"Y","MustSellAppr":"Y","SettleAppr":"Y"}]}==========

@@ -1,0 +1,7 @@
+30-Aug-2024 14:56:36-PriceChangeHeader STARTED 30-08-2024 14:56:36
+30-Aug-2024 14:56:36-======================================
+30-Aug-2024 14:56:36-PriceChangeHeader  Column 'rsn_Name' does not belong to table LisPriceUpdateApprovalDetail.
+30-Aug-2024 14:56:36-PriceChangeHeader ENDED 30-08-2024 14:56:36
+30-Aug-2024 14:56:36-======================================
+30-Aug-2024 14:57:13-PriceChangeHeader STARTED 30-08-2024 14:57:13
+30-Aug-2024 14:57:13-======================================

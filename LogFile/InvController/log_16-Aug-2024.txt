@@ -1,0 +1,22 @@
+16-Aug-2024 11:23:49-SelectInvoiceHeader STARTED -16-08-2024 11:23:49
+16-Aug-2024 11:23:49-====================
+16-Aug-2024 11:25:47- SelectInvoiceHeader Exception - Object reference not set to an instance of an object.
+16-Aug-2024 11:25:47-SelectInvoiceHeader ENDED - 16-08-2024 11:25:47
+16-Aug-2024 11:25:47-==================
+16-Aug-2024 11:25:54-SelectInvoiceHeader STARTED -16-08-2024 11:25:54
+16-Aug-2024 11:25:54-====================
+16-Aug-2024 11:27:08- SelectInvoiceHeader Exception - Object reference not set to an instance of an object.
+16-Aug-2024 11:27:08-SelectInvoiceHeader ENDED - 16-08-2024 11:27:08
+16-Aug-2024 11:27:08-==================
+16-Aug-2024 11:27:10-SelectInvoiceHeader STARTED -16-08-2024 11:27:10
+16-Aug-2024 11:27:10-====================
+16-Aug-2024 11:28:03- SelectInvoiceHeader Exception - Object reference not set to an instance of an object.
+16-Aug-2024 11:28:03-SelectInvoiceHeader ENDED - 16-08-2024 11:28:03
+16-Aug-2024 11:28:03-==================
+16-Aug-2024 11:28:05-SelectInvoiceHeader STARTED -16-08-2024 11:28:05
+16-Aug-2024 11:28:05-====================
+16-Aug-2024 11:30:48- SelectInvoiceHeader Exception - Object reference not set to an instance of an object.
+16-Aug-2024 11:30:48-SelectInvoiceHeader ENDED - 16-08-2024 11:30:48
+16-Aug-2024 11:30:48-==================
+16-Aug-2024 11:30:50-SelectInvoiceHeader STARTED -16-08-2024 11:30:50
+16-Aug-2024 11:30:50-====================

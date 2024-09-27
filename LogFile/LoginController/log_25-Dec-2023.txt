@@ -1,0 +1,4 @@
+25-Dec-2023 12:56:51-==========AppSignin Started==========
+25-Dec-2023 12:56:52-==========Query Executed==========
+25-Dec-2023 12:56:52-==========Row Count Greated Than 0==========
+25-Dec-2023 12:56:52-==========JSONString Generated {"result":[{"usrID":"54","usrName":"Inventory User 01","usrCode":"154","Desc":"","Title":"Login Success","Roles":"","usrType":null,"userStore":null,"IsInstantStockCount":"Y","usrleveldata":[{"usrlevel":"1","Workflow":"Inventory Picking","Workflowcode":"IP"},{"usrlevel":"1","Workflow":"Goods Receiving","Workflowcode":"GR"},{"usrlevel":"1","Workflow":"Stock Counting","Workflowcode":"SC"}]}]}==========

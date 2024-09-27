@@ -1,0 +1,7 @@
+03-Sep-2024 16:47:35-PriceChangeHeader STARTED 03-09-2024 16:47:35
+03-Sep-2024 16:47:35-======================================
+03-Sep-2024 16:47:37-PriceChangeHeader  Column 'pcd_ApprovedLPrice' does not belong to table LisPriceUpdateApprovalDetail.
+03-Sep-2024 16:47:37-PriceChangeHeader ENDED 03-09-2024 16:47:37
+03-Sep-2024 16:47:37-======================================
+03-Sep-2024 16:48:12-PriceChangeHeader STARTED 03-09-2024 16:48:12
+03-Sep-2024 16:48:12-======================================

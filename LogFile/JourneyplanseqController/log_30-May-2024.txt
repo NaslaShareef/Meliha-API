@@ -1,0 +1,17 @@
+30-May-2024 17:08:56-JourneyplanseqHeader STARTED 30-05-2024 17:08:56
+30-May-2024 17:08:56-======================================
+30-May-2024 17:08:57-JourneyplanseqHeader  Column 'jps_ID' does not belong to table SelJPSeqApprovalRequests.
+30-May-2024 17:08:57-JourneyplanseqHeader ENDED 30-05-2024 17:08:57
+30-May-2024 17:08:57-======================================
+30-May-2024 17:09:27-JourneyplanseqHeader STARTED 30-05-2024 17:09:27
+30-May-2024 17:09:27-======================================
+30-May-2024 17:09:59-JourneyplanseqHeader  Column 'jps_ID' does not belong to table SelJPSeqApprovalRequests.
+30-May-2024 17:09:59-JourneyplanseqHeader ENDED 30-05-2024 17:09:59
+30-May-2024 17:09:59-======================================
+30-May-2024 17:10:25-JourneyplanseqHeader STARTED 30-05-2024 17:10:25
+30-May-2024 17:10:25-======================================
+30-May-2024 17:10:26-JourneyplanseqHeader  Column 'jps_ID' does not belong to table SelJPSeqApprovalRequests.
+30-May-2024 17:10:26-JourneyplanseqHeader ENDED 30-05-2024 17:10:26
+30-May-2024 17:10:26-======================================
+30-May-2024 19:26:42-JourneyplanseqHeader STARTED 30-05-2024 19:26:42
+30-May-2024 19:26:42-======================================

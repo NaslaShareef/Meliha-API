@@ -1,0 +1,15 @@
+24-May-2024 18:13:18-==========GetPreviousCNR Started==========
+24-May-2024 18:13:28-==========Query Executed==========
+24-May-2024 18:13:50-==========Exception Caught System.NullReferenceException: Object reference not set to an instance of an object.
+   at MVC_API.Controllers.CreditNoteController.GetPreviousCNR(PrevCNRIn inputParams) in E:\TurboSoft\SFAAPI\SFA API\SFA MVC API\Controllers\CreditNoteController.cs:line 466==========
+24-May-2024 18:13:50-==========GetPreviousCNR End==========
+24-May-2024 18:13:59-==========GetPreviousCNR Started==========
+24-May-2024 18:13:59-==========Query Executed==========
+24-May-2024 18:14:04-==========Exception Caught System.NullReferenceException: Object reference not set to an instance of an object.
+   at MVC_API.Controllers.CreditNoteController.GetPreviousCNR(PrevCNRIn inputParams) in E:\TurboSoft\SFAAPI\SFA API\SFA MVC API\Controllers\CreditNoteController.cs:line 466==========
+24-May-2024 18:14:04-==========GetPreviousCNR End==========
+24-May-2024 18:14:15-==========GetPreviousCNR Started==========
+24-May-2024 18:14:36-==========Query Executed==========
+24-May-2024 18:15:39-==========Exception Caught System.NullReferenceException: Object reference not set to an instance of an object.
+   at MVC_API.Controllers.CreditNoteController.GetPreviousCNR(PrevCNRIn inputParams)==========
+24-May-2024 18:15:39-==========GetPreviousCNR End==========

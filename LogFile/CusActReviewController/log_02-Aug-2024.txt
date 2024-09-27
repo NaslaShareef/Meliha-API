@@ -1,0 +1,55 @@
+02-Aug-2024 12:32:52-ActReviewHeaderList STARTED -02-08-2024 12:32:52
+02-Aug-2024 12:32:52-====================
+02-Aug-2024 12:33:08-ActReviewHeaderList STARTED -02-08-2024 12:33:08
+02-Aug-2024 12:33:08-====================
+02-Aug-2024 12:35:22-ActReviewHeaderList STARTED -02-08-2024 12:35:22
+02-Aug-2024 12:35:22-====================
+02-Aug-2024 12:35:50-ActReviewHeaderList STARTED -02-08-2024 12:35:50
+02-Aug-2024 12:35:50-====================
+02-Aug-2024 12:36:39-ActReviewHeaderList STARTED -02-08-2024 12:36:39
+02-Aug-2024 12:36:39-====================
+02-Aug-2024 12:37:09-ActReviewHeaderList STARTED -02-08-2024 12:37:09
+02-Aug-2024 12:37:09-====================
+02-Aug-2024 12:40:11-ActReviewHeaderList STARTED -02-08-2024 12:40:11
+02-Aug-2024 12:40:11-====================
+02-Aug-2024 14:25:38-ActReviewDetailByUdpID STARTED -02-08-2024 14:25:38
+02-Aug-2024 14:25:38-====================
+02-Aug-2024 14:25:40-ActReviewDetailByUdpID Exception - Column 'rot_Code' does not belong to table SelActReviewDetailByudpID.
+02-Aug-2024 14:25:40-ActReviewDetailByUdpID ENDED - 02-08-2024 14:25:40
+02-Aug-2024 14:25:40-==================
+02-Aug-2024 14:25:53-ActReviewDetailByUdpID STARTED -02-08-2024 14:25:53
+02-Aug-2024 14:25:53-====================
+02-Aug-2024 17:42:13-ActReviewDetailChartData STARTED -02-08-2024 17:42:13
+02-Aug-2024 17:42:13-====================
+02-Aug-2024 17:42:41-ActReviewDetailChartData Exception - Column 'AchievedAmount' does not belong to table SelActReviewDetailChartData.
+02-Aug-2024 17:42:41-ActReviewDetailChartData ENDED - 02-08-2024 17:42:41
+02-Aug-2024 17:42:41-==================
+02-Aug-2024 17:43:25-ActReviewDetailChartData STARTED -02-08-2024 17:43:25
+02-Aug-2024 17:43:25-====================
+02-Aug-2024 17:44:04-ActReviewDetailChartData STARTED -02-08-2024 17:44:04
+02-Aug-2024 17:44:04-====================
+02-Aug-2024 17:45:39-ActReviewDetailChartData STARTED -02-08-2024 17:45:39
+02-Aug-2024 17:45:39-====================
+02-Aug-2024 19:15:30-ActRevTodaysSaleData STARTED -02-08-2024 19:15:30
+02-Aug-2024 19:15:30-====================
+02-Aug-2024 19:16:00-ActRevTodaysSaleData STARTED -02-08-2024 19:16:00
+02-Aug-2024 19:16:00-====================
+02-Aug-2024 19:27:15-ActRevTotalData STARTED -02-08-2024 19:27:15
+02-Aug-2024 19:27:15-====================
+02-Aug-2024 19:49:22-ActRevDetailVisitData STARTED -02-08-2024 19:49:22
+02-Aug-2024 19:49:22-====================
+02-Aug-2024 19:49:25-ActRevDetailVisitData Exception - Column 'finalTotalSal_CS' does not belong to table SelDailyActivityVisitData.
+02-Aug-2024 19:49:25-ActRevDetailVisitData ENDED - 02-08-2024 19:49:25
+02-Aug-2024 19:49:25-==================
+02-Aug-2024 19:50:01-ActRevDetailVisitData STARTED -02-08-2024 19:50:01
+02-Aug-2024 19:50:01-====================
+02-Aug-2024 19:50:01-ActRevDetailVisitData Exception - Column 'finalTotalSal_CS' does not belong to table SelDailyActivityVisitData.
+02-Aug-2024 19:50:01-ActRevDetailVisitData ENDED - 02-08-2024 19:50:01
+02-Aug-2024 19:50:01-==================
+02-Aug-2024 19:50:46-ActRevDetailVisitData STARTED -02-08-2024 19:50:46
+02-Aug-2024 19:50:46-====================
+02-Aug-2024 20:20:55-ActRevDetailVisitData Exception - Column 'finalTotalSal_CS' does not belong to table SelDailyActivityVisitData.
+02-Aug-2024 20:20:55-ActRevDetailVisitData ENDED - 02-08-2024 20:20:55
+02-Aug-2024 20:20:55-==================
+02-Aug-2024 20:20:59-ActRevDetailVisitData STARTED -02-08-2024 20:20:59
+02-Aug-2024 20:20:59-====================

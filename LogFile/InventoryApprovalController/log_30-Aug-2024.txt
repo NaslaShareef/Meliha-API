@@ -1,0 +1,7 @@
+30-Aug-2024 16:13:18-LoadTranferApprovalDetails STARTED 30-08-2024 16:13:18
+30-Aug-2024 16:13:18-======================================
+30-Aug-2024 16:13:19-LoadTranferApprovalDetails  Column 'ldr_ApprovalStatus' does not belong to table LisLoadTransferReqApprovalDetail.
+30-Aug-2024 16:13:19-LoadTranferApprovalDetails ENDED 30-08-2024 16:13:19
+30-Aug-2024 16:13:19-======================================
+30-Aug-2024 16:13:47-LoadTranferApprovalDetails STARTED 30-08-2024 16:13:47
+30-Aug-2024 16:13:47-======================================

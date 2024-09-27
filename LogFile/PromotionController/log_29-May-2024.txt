@@ -1,0 +1,7 @@
+29-May-2024 19:07:19-SelectPromotionHeader STARTED -29-05-2024 19:07:18
+29-May-2024 19:07:19-====================
+29-May-2024 19:08:31-SelectPromotionHeader Exception - Object reference not set to an instance of an object.
+29-May-2024 19:08:31-SelectPromotionHeader ENDED - 29-05-2024 19:08:31
+29-May-2024 19:08:31-==================
+29-May-2024 19:08:39-SelectPromotionHeader STARTED -29-05-2024 19:08:39
+29-May-2024 19:08:39-====================

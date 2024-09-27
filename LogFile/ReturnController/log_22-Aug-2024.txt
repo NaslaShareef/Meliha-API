@@ -1,0 +1,45 @@
+22-Aug-2024 17:43:07-PostScheduledReturnRequest STARTED 22-08-2024 17:43:07
+22-Aug-2024 17:43:07-============================================
+22-Aug-2024 17:43:07-PostScheduledReturnRequest json:
+22-Aug-2024 17:43:07-Value cannot be null.
+Parameter name: value
+22-Aug-2024 17:43:07-PostScheduledReturnRequest ENDED 22-08-2024 17:43:07
+22-Aug-2024 17:43:07-========================================
+22-Aug-2024 17:43:10-PostScheduledReturnRequest STARTED 22-08-2024 17:43:10
+22-Aug-2024 17:43:10-============================================
+22-Aug-2024 17:43:10-PostScheduledReturnRequest json:
+22-Aug-2024 17:43:10-Value cannot be null.
+Parameter name: value
+22-Aug-2024 17:43:10-PostScheduledReturnRequest ENDED 22-08-2024 17:43:10
+22-Aug-2024 17:43:10-========================================
+22-Aug-2024 17:43:45-PostScheduledReturnRequest STARTED 22-08-2024 17:43:45
+22-Aug-2024 17:43:45-============================================
+22-Aug-2024 17:43:45-PostScheduledReturnRequest json:
+22-Aug-2024 17:43:45-Value cannot be null.
+Parameter name: value
+22-Aug-2024 17:43:45-PostScheduledReturnRequest ENDED 22-08-2024 17:43:45
+22-Aug-2024 17:43:45-========================================
+22-Aug-2024 17:45:48-PostScheduledReturnRequest STARTED 22-08-2024 17:45:48
+22-Aug-2024 17:45:48-============================================
+22-Aug-2024 17:45:48-PostScheduledReturnRequest json:[{ "ItemId":"1", "HigherUOM":"1", "HigherQty":"11", "LowerUOM":"2", "LowerQty":"22", "ReasonId":"", "HigherPrice":"22", "LowerPrice":"11", "LineTotal":"100", "Vat":"10", "GrandTotal":"" }]
+22-Aug-2024 17:45:48-PostScheduledReturnRequest InputXml:
+22-Aug-2024 17:45:52-Object reference not set to an instance of an object.
+22-Aug-2024 17:45:52-Cannot use a leading .. to exit above the top directory.
+22-Aug-2024 17:45:52-PostScheduledReturnRequest ENDED 22-08-2024 17:45:52
+22-Aug-2024 17:45:52-========================================
+22-Aug-2024 17:45:55-PostScheduledReturnRequest STARTED 22-08-2024 17:45:55
+22-Aug-2024 17:45:55-============================================
+22-Aug-2024 17:45:55-PostScheduledReturnRequest json:[{ "ItemId":"1", "HigherUOM":"1", "HigherQty":"11", "LowerUOM":"2", "LowerQty":"22", "ReasonId":"", "HigherPrice":"22", "LowerPrice":"11", "LineTotal":"100", "Vat":"10", "GrandTotal":"" }]
+22-Aug-2024 17:45:55-PostScheduledReturnRequest InputXml:
+22-Aug-2024 17:46:38-Object reference not set to an instance of an object.
+22-Aug-2024 17:46:38-Cannot use a leading .. to exit above the top directory.
+22-Aug-2024 17:46:38-PostScheduledReturnRequest ENDED 22-08-2024 17:46:38
+22-Aug-2024 17:46:38-PostScheduledReturnRequest STARTED 22-08-2024 17:46:38
+22-Aug-2024 17:46:38-============================================
+22-Aug-2024 17:46:38-========================================
+22-Aug-2024 17:46:38-PostScheduledReturnRequest json:[{ "ItemId":"1", "HigherUOM":"1", "HigherQty":"11", "LowerUOM":"2", "LowerQty":"22", "ReasonId":"nil", "HigherPrice":"22", "LowerPrice":"11", "LineTotal":"100", "Vat":"10", "GrandTotal":"110" }]
+22-Aug-2024 17:46:38-PostScheduledReturnRequest InputXml:
+22-Aug-2024 17:47:41-Object reference not set to an instance of an object.
+22-Aug-2024 17:47:41-Cannot use a leading .. to exit above the top directory.
+22-Aug-2024 17:47:41-PostScheduledReturnRequest ENDED 22-08-2024 17:47:41
+22-Aug-2024 17:47:41-========================================

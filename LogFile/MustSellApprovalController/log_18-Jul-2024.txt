@@ -1,0 +1,49 @@
+18-Jul-2024 16:47:46-MustSellApprovalHeader STARTED 18-07-2024 16:47:46
+18-Jul-2024 16:47:46-======================================
+18-Jul-2024 16:47:48-MustSellApprovalHeader  Column 'msa_usr_id' does not belong to table ListMustSellApprovalHeader.
+18-Jul-2024 16:47:48-MustSellApprovalHeader ENDED 18-07-2024 16:47:48
+18-Jul-2024 16:47:48-======================================
+18-Jul-2024 16:48:09-MustSellApprovalHeader STARTED 18-07-2024 16:48:09
+18-Jul-2024 16:48:09-======================================
+18-Jul-2024 16:48:09-MustSellApprovalHeader  Column 'msa_rot_id' does not belong to table ListMustSellApprovalHeader.
+18-Jul-2024 16:48:09-MustSellApprovalHeader ENDED 18-07-2024 16:48:09
+18-Jul-2024 16:48:09-======================================
+18-Jul-2024 16:48:20-MustSellApprovalHeader STARTED 18-07-2024 16:48:20
+18-Jul-2024 16:48:20-======================================
+18-Jul-2024 16:48:32-MustSellApprovalHeader STARTED 18-07-2024 16:48:32
+18-Jul-2024 16:48:32-======================================
+18-Jul-2024 16:49:04-MustSellApprovalDetail STARTED 18-07-2024 16:49:04
+18-Jul-2024 16:49:04-======================================
+18-Jul-2024 16:49:04-MustSellApprovalDetail  Column 'msd_prd_id' does not belong to table MustSellApprovalDetail.
+18-Jul-2024 16:49:04-MustSellApprovalDetail ENDED 18-07-2024 16:49:04
+18-Jul-2024 16:49:04-======================================
+18-Jul-2024 16:49:17-MustSellApprovalDetail STARTED 18-07-2024 16:49:17
+18-Jul-2024 16:49:17-======================================
+18-Jul-2024 16:49:18-MustSellApprovalDetail  Column 'prd_Code' does not belong to table MustSellApprovalDetail.
+18-Jul-2024 16:49:18-MustSellApprovalDetail ENDED 18-07-2024 16:49:18
+18-Jul-2024 16:49:18-======================================
+18-Jul-2024 16:49:41-MustSellApprovalDetail STARTED 18-07-2024 16:49:41
+18-Jul-2024 16:49:41-======================================
+18-Jul-2024 16:57:06-MustSellApprovalDetail STARTED 18-07-2024 16:57:06
+18-Jul-2024 16:57:06-======================================
+18-Jul-2024 17:00:51-PostMustSellApproval STARTED 18-07-2024 17:00:51
+18-Jul-2024 17:00:51-============================================
+18-Jul-2024 17:00:51-Unexpected character encountered while parsing value: A. Path '[0].Status', line 1, position 19.
+18-Jul-2024 17:00:51-PostMustSellApproval ENDED 18-07-2024 17:00:51
+18-Jul-2024 17:00:51-========================================
+18-Jul-2024 17:01:01-PostMustSellApproval STARTED 18-07-2024 17:01:01
+18-Jul-2024 17:01:01-============================================
+18-Jul-2024 17:05:32-MustSellApprovalHeader STARTED 18-07-2024 17:05:32
+18-Jul-2024 17:05:32-======================================
+18-Jul-2024 17:05:32-NoDataRes
+18-Jul-2024 17:05:32-MustSellApprovalHeader ENDED 18-07-2024 17:05:32
+18-Jul-2024 17:05:32-======================================
+18-Jul-2024 17:06:06-MustSellApprovalHeader STARTED 18-07-2024 17:06:06
+18-Jul-2024 17:06:06-======================================
+18-Jul-2024 17:06:07-NoDataRes
+18-Jul-2024 17:06:07-MustSellApprovalHeader ENDED 18-07-2024 17:06:07
+18-Jul-2024 17:06:07-======================================
+18-Jul-2024 17:06:10-MustSellApprovalHeader STARTED 18-07-2024 17:06:10
+18-Jul-2024 17:06:10-======================================
+18-Jul-2024 17:06:22-MustSellApprovalHeader STARTED 18-07-2024 17:06:22
+18-Jul-2024 17:06:22-======================================

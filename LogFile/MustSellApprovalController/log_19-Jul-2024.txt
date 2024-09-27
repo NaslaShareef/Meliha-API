@@ -1,0 +1,12 @@
+19-Jul-2024 17:58:38-MustSellApprovalHeader STARTED 19-07-2024 17:58:38
+19-Jul-2024 17:58:38-======================================
+19-Jul-2024 17:58:40-MustSellApprovalHeader  Column 'msd_LQty' does not belong to table ListMustSellApprovalHeader.
+19-Jul-2024 17:58:40-MustSellApprovalHeader ENDED 19-07-2024 17:58:40
+19-Jul-2024 17:58:40-======================================
+19-Jul-2024 18:04:51-MustSellApprovalHeader STARTED 19-07-2024 18:04:51
+19-Jul-2024 18:04:51-======================================
+19-Jul-2024 18:04:51-MustSellApprovalHeader  Column 'msd_LQty' does not belong to table ListMustSellApprovalHeader.
+19-Jul-2024 18:04:51-MustSellApprovalHeader ENDED 19-07-2024 18:04:51
+19-Jul-2024 18:04:51-======================================
+19-Jul-2024 18:05:04-MustSellApprovalHeader STARTED 19-07-2024 18:05:04
+19-Jul-2024 18:05:04-======================================

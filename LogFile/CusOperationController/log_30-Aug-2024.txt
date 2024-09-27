@@ -1,0 +1,11 @@
+30-Aug-2024 11:46:00-PartialDeliveryDetail STARTED 30-08-2024 11:46:00
+30-Aug-2024 11:46:00-======================================
+30-Aug-2024 14:53:36-PartialDeliveryDetail STARTED 30-08-2024 14:53:36
+30-Aug-2024 14:53:36-======================================
+30-Aug-2024 16:18:39-InventoryReconfirmDetails STARTED 30-08-2024 16:18:39
+30-Aug-2024 16:18:39-======================================
+30-Aug-2024 16:18:39-InventoryReconfirmDetails  Column 'iad_Status' does not belong to table ListInvReconfirmApprovalDetail.
+30-Aug-2024 16:18:39-InventoryReconfirmDetails ENDED 30-08-2024 16:18:39
+30-Aug-2024 16:18:39-======================================
+30-Aug-2024 16:18:51-InventoryReconfirmDetails STARTED 30-08-2024 16:18:51
+30-Aug-2024 16:18:51-======================================

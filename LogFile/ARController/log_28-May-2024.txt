@@ -1,0 +1,11 @@
+28-May-2024 15:30:26-SelectARHeader STARTED -28-05-2024 15:30:26
+28-May-2024 15:30:28-====================
+28-May-2024 15:31:51-SelectARHeader Exception - String was not recognized as a valid DateTime.
+28-May-2024 15:31:51-SelectARHeader ENDED - 28-05-2024 15:31:51
+28-May-2024 15:31:51-==================
+28-May-2024 15:45:15-SelectARHeader STARTED -28-05-2024 15:45:15
+28-May-2024 15:45:16-====================
+28-May-2024 15:46:22-SelectARHeader STARTED -28-05-2024 15:46:22
+28-May-2024 15:46:22-====================
+28-May-2024 15:46:40-SelectARHeader STARTED -28-05-2024 15:46:40
+28-May-2024 15:46:40-====================

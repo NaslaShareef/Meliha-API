@@ -1,0 +1,4 @@
+04-Jun-2024 17:21:35-==========SelUOMByID Master Started==========
+04-Jun-2024 17:21:37-==========Query Executed==========
+04-Jun-2024 17:21:37-==========Row Count Greated Than 0==========
+04-Jun-2024 17:21:37-==========JSONString Generated {"result":[{"uomID":"1","uomName":"CTN","UPC":"12"},{"uomID":"2","uomName":"PCS","UPC":"1"}]}==========

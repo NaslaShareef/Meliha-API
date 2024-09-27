@@ -1,0 +1,70 @@
+01-Aug-2024 12:59:02-SelectOutletForAR STARTED -01-08-2024 12:59:02
+01-Aug-2024 12:59:02-====================
+01-Aug-2024 13:37:01-TargetHeaderCount STARTED -01-08-2024 13:37:01
+01-Aug-2024 13:37:01-====================
+01-Aug-2024 13:43:43-HeaderRouteWiseTargets STARTED -01-08-2024 13:43:43
+01-Aug-2024 13:43:43-====================
+01-Aug-2024 13:43:44-HeaderRouteWiseTargets ENDED - 01-08-2024 13:43:44
+01-Aug-2024 13:43:44-==================
+01-Aug-2024 13:43:47-HeaderRouteWiseTargets STARTED -01-08-2024 13:43:47
+01-Aug-2024 13:43:47-====================
+01-Aug-2024 13:43:48-HeaderRouteWiseTargets ENDED - 01-08-2024 13:43:48
+01-Aug-2024 13:43:48-==================
+01-Aug-2024 13:44:32-HeaderRouteWiseTargets STARTED -01-08-2024 13:44:32
+01-Aug-2024 13:44:32-====================
+01-Aug-2024 13:44:33-HeaderRouteWiseTargets ENDED - 01-08-2024 13:44:33
+01-Aug-2024 13:44:33-==================
+01-Aug-2024 13:45:03-HeaderRouteWiseTargets STARTED -01-08-2024 13:45:03
+01-Aug-2024 13:45:03-====================
+01-Aug-2024 13:46:04-HeaderRouteWiseTargets STARTED -01-08-2024 13:46:04
+01-Aug-2024 13:46:04-====================
+01-Aug-2024 13:46:22-HeaderRouteWiseTargets Exception - Column 'TotalTargetAmount' does not belong to table HeaderRoutetWiseTargets.
+01-Aug-2024 13:46:22-HeaderRouteWiseTargets ENDED - 01-08-2024 13:46:22
+01-Aug-2024 13:46:22-==================
+01-Aug-2024 13:58:24-HeaderRouteWiseTargets STARTED -01-08-2024 13:58:24
+01-Aug-2024 13:58:24-====================
+01-Aug-2024 13:58:44-HeaderRouteCount STARTED -01-08-2024 13:58:44
+01-Aug-2024 13:58:44-====================
+01-Aug-2024 14:01:26-HeaderRouteCount STARTED -01-08-2024 14:01:26
+01-Aug-2024 14:01:26-====================
+01-Aug-2024 14:01:42-HeaderRouteWiseTargets STARTED -01-08-2024 14:01:42
+01-Aug-2024 14:01:42-====================
+01-Aug-2024 14:02:32-HeaderRouteCount STARTED -01-08-2024 14:02:32
+01-Aug-2024 14:02:32-====================
+01-Aug-2024 15:53:37-HeaderRouteWiseTargets STARTED -01-08-2024 15:53:37
+01-Aug-2024 15:53:37-====================
+01-Aug-2024 15:53:51-HeaderRouteWiseTargets STARTED -01-08-2024 15:53:51
+01-Aug-2024 15:53:51-====================
+01-Aug-2024 16:07:50-TargetDaysCount STARTED -01-08-2024 16:07:50
+01-Aug-2024 16:07:50-====================
+01-Aug-2024 16:51:32-TargetDetailAmtCount STARTED -01-08-2024 16:51:32
+01-Aug-2024 16:51:32-====================
+01-Aug-2024 16:53:50-TargetDetailAmtCount STARTED -01-08-2024 16:53:50
+01-Aug-2024 16:53:50-====================
+01-Aug-2024 16:53:59-TargetDetailAmtCount STARTED -01-08-2024 16:53:59
+01-Aug-2024 16:53:59-====================
+01-Aug-2024 16:54:15-TargetDetailAmtCount STARTED -01-08-2024 16:54:15
+01-Aug-2024 16:54:15-====================
+01-Aug-2024 16:55:09-TargetDetailAmtCount STARTED -01-08-2024 16:55:09
+01-Aug-2024 16:55:09-====================
+01-Aug-2024 16:55:49-TargetDetailQtyCount STARTED -01-08-2024 16:55:49
+01-Aug-2024 16:55:49-====================
+01-Aug-2024 16:55:49-TargetDetailQtyCount Exception - Column 'TotalTargetAmount' does not belong to table TargetQtyforDetailchart.
+01-Aug-2024 16:55:49-TargetDetailQtyCount ENDED - 01-08-2024 16:55:49
+01-Aug-2024 16:55:49-==================
+01-Aug-2024 17:41:41-TargetDetailQtyCount STARTED -01-08-2024 17:41:41
+01-Aug-2024 17:41:41-====================
+01-Aug-2024 17:43:23-TargetDetailQtyCount STARTED -01-08-2024 17:43:23
+01-Aug-2024 17:43:23-====================
+01-Aug-2024 17:43:40-TargetDetailAmtCount STARTED -01-08-2024 17:43:40
+01-Aug-2024 17:43:40-====================
+01-Aug-2024 19:48:34-HeaderRouteWiseTargetDetail STARTED -01-08-2024 19:48:34
+01-Aug-2024 19:48:34-====================
+01-Aug-2024 19:50:04-HeaderRouteWiseTargetDetail STARTED -01-08-2024 19:50:04
+01-Aug-2024 19:50:04-====================
+01-Aug-2024 19:50:19-HeaderRouteWiseTargetDetail STARTED -01-08-2024 19:50:19
+01-Aug-2024 19:50:19-====================
+01-Aug-2024 19:54:16-RouteWiseTargetDetail STARTED -01-08-2024 19:54:16
+01-Aug-2024 19:54:16-====================
+01-Aug-2024 20:05:45-RouteWisePackageDetail STARTED -01-08-2024 20:05:45
+01-Aug-2024 20:05:45-====================

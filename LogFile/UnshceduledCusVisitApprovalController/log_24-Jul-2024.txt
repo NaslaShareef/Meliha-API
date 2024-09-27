@@ -1,0 +1,51 @@
+24-Jul-2024 16:57:04-InsUnshceduledCusVisitApproval STARTED 24-07-2024 16:57:04
+24-Jul-2024 16:57:04-======================================
+24-Jul-2024 16:57:06-NoDataRes
+24-Jul-2024 16:57:06-InsUnshceduledCusVisitApproval ENDED 24-07-2024 16:57:06
+24-Jul-2024 16:57:06-======================================
+24-Jul-2024 17:03:21-InsUnshceduledCusVisitApproval STARTED 24-07-2024 17:03:21
+24-Jul-2024 17:03:21-======================================
+24-Jul-2024 17:13:13-GetUnscheduledVisitApprovalStatus STARTED 24-07-2024 17:13:13
+24-Jul-2024 17:13:13-======================================
+24-Jul-2024 17:13:15-NoDataRes
+24-Jul-2024 17:13:15-GetUnscheduledVisitApprovalStatus ENDED 24-07-2024 17:13:15
+24-Jul-2024 17:13:15-======================================
+24-Jul-2024 17:17:15-GetUnscheduledVisitApprovalStatus STARTED 24-07-2024 17:17:15
+24-Jul-2024 17:17:15-======================================
+24-Jul-2024 17:17:16-NoDataRes
+24-Jul-2024 17:17:16-GetUnscheduledVisitApprovalStatus ENDED 24-07-2024 17:17:16
+24-Jul-2024 17:17:16-======================================
+24-Jul-2024 17:17:17-GetUnscheduledVisitApprovalStatus STARTED 24-07-2024 17:17:17
+24-Jul-2024 17:17:17-======================================
+24-Jul-2024 17:17:17-NoDataRes
+24-Jul-2024 17:17:17-GetUnscheduledVisitApprovalStatus ENDED 24-07-2024 17:17:17
+24-Jul-2024 17:17:17-======================================
+24-Jul-2024 17:17:36-GetUnscheduledVisitApprovalStatus STARTED 24-07-2024 17:17:36
+24-Jul-2024 17:17:36-======================================
+24-Jul-2024 17:18:35-NoDataRes
+24-Jul-2024 17:18:35-GetUnscheduledVisitApprovalStatus ENDED 24-07-2024 17:18:35
+24-Jul-2024 17:18:35-======================================
+24-Jul-2024 17:18:41-GetUnscheduledVisitApprovalStatus STARTED 24-07-2024 17:18:41
+24-Jul-2024 17:18:41-======================================
+24-Jul-2024 17:18:41-Column 'iad_Status' does not belong to table TT.
+24-Jul-2024 17:18:41-GetUnscheduledVisitApprovalStatus ENDED 24-07-2024 17:18:41
+24-Jul-2024 17:18:41-======================================
+24-Jul-2024 17:19:15-GetUnscheduledVisitApprovalStatus STARTED 24-07-2024 17:19:15
+24-Jul-2024 17:19:15-======================================
+24-Jul-2024 17:19:16-Column 'Status' does not belong to table TT.
+24-Jul-2024 17:19:16-GetUnscheduledVisitApprovalStatus ENDED 24-07-2024 17:19:16
+24-Jul-2024 17:19:16-======================================
+24-Jul-2024 17:19:18-GetUnscheduledVisitApprovalStatus STARTED 24-07-2024 17:19:18
+24-Jul-2024 17:19:18-======================================
+24-Jul-2024 17:19:18-Column 'Status' does not belong to table TT.
+24-Jul-2024 17:19:18-GetUnscheduledVisitApprovalStatus ENDED 24-07-2024 17:19:18
+24-Jul-2024 17:19:18-======================================
+24-Jul-2024 17:19:27-GetUnscheduledVisitApprovalStatus STARTED 24-07-2024 17:19:27
+24-Jul-2024 17:19:27-======================================
+24-Jul-2024 17:19:27-Error getting value from 'ApprovalStatus' on 'MVC_API.Models.CustomerConnectHelper.GetUnscheduledVisitApprovalStatus'.
+24-Jul-2024 17:19:27-GetUnscheduledVisitApprovalStatus ENDED 24-07-2024 17:19:27
+24-Jul-2024 17:19:27-======================================
+24-Jul-2024 17:20:03-GetUnscheduledVisitApprovalStatus STARTED 24-07-2024 17:20:03
+24-Jul-2024 17:20:03-======================================
+24-Jul-2024 17:42:44-GetUnscheduledVisitApprovalStatus STARTED 24-07-2024 17:42:44
+24-Jul-2024 17:42:44-======================================

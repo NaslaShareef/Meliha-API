@@ -1,0 +1,49 @@
+02-Dec-2023 17:04:23-GetAssetSerialNumForResolved STARTED 02-12-2023 17:04:23
+02-Dec-2023 17:04:23-======================================
+02-Dec-2023 17:04:25-GetAssetSerialNumForResolved  Column 'atm_Code' does not belong to table TT.
+02-Dec-2023 17:04:25-GetAssetSerialNumForResolved ENDED 02-12-2023 17:04:25
+02-Dec-2023 17:04:25-======================================
+02-Dec-2023 17:05:36-GetAssetSerialNumForResolved STARTED 02-12-2023 17:05:36
+02-Dec-2023 17:05:36-======================================
+02-Dec-2023 17:05:37-GetAssetSerialNumForResolved  Column 'atm_Name' does not belong to table TT.
+02-Dec-2023 17:05:37-GetAssetSerialNumForResolved ENDED 02-12-2023 17:05:37
+02-Dec-2023 17:05:37-======================================
+02-Dec-2023 17:06:04-GetAssetSerialNumForResolved STARTED 02-12-2023 17:06:04
+02-Dec-2023 17:06:04-======================================
+02-Dec-2023 18:14:39-GetServiceRequests STARTED 02-12-2023 18:14:39
+02-Dec-2023 18:14:39-======================================
+02-Dec-2023 18:15:07-GetServiceRequests  Object reference not set to an instance of an object.
+02-Dec-2023 18:15:07-GetServiceRequests ENDED 02-12-2023 18:15:07
+02-Dec-2023 18:15:07-======================================
+02-Dec-2023 18:15:13-GetServiceRequests STARTED 02-12-2023 18:15:13
+02-Dec-2023 18:15:13-======================================
+02-Dec-2023 18:16:12-GetServiceRequests  Object reference not set to an instance of an object.
+02-Dec-2023 18:16:12-GetServiceRequests ENDED 02-12-2023 18:16:12
+02-Dec-2023 18:16:12-======================================
+02-Dec-2023 18:19:51-GetServiceRequests STARTED 02-12-2023 18:19:51
+02-Dec-2023 18:19:51-======================================
+02-Dec-2023 18:21:15-GetServiceRequests  Object reference not set to an instance of an object.
+02-Dec-2023 18:21:15-GetServiceRequests ENDED 02-12-2023 18:21:15
+02-Dec-2023 18:21:15-======================================
+02-Dec-2023 18:26:18-GetServiceRequests STARTED 02-12-2023 18:26:18
+02-Dec-2023 18:26:19-======================================
+02-Dec-2023 18:28:28-GetServiceRequests  Object reference not set to an instance of an object.
+02-Dec-2023 18:28:28-GetServiceRequests ENDED 02-12-2023 18:28:28
+02-Dec-2023 18:28:28-======================================
+02-Dec-2023 18:28:49-GetServiceRequests STARTED 02-12-2023 18:28:49
+02-Dec-2023 18:28:49-======================================
+02-Dec-2023 18:29:26-GetServiceRequests  Object reference not set to an instance of an object.
+02-Dec-2023 18:29:26-GetServiceRequests ENDED 02-12-2023 18:29:26
+02-Dec-2023 18:29:26-======================================
+02-Dec-2023 18:29:50-GetServiceRequests STARTED 02-12-2023 18:29:50
+02-Dec-2023 18:29:50-======================================
+02-Dec-2023 19:18:19-GetServiceRequests STARTED 02-12-2023 19:18:19
+02-Dec-2023 19:18:19-======================================
+02-Dec-2023 19:18:24-NoDataRes
+02-Dec-2023 19:18:24-GetServiceRequests ENDED 02-12-2023 19:18:24
+02-Dec-2023 19:18:24-======================================
+02-Dec-2023 19:23:50-GetServiceRequests STARTED 02-12-2023 19:23:49
+02-Dec-2023 19:23:50-======================================
+02-Dec-2023 19:24:15-NoDataRes
+02-Dec-2023 19:24:15-GetServiceRequests ENDED 02-12-2023 19:24:15
+02-Dec-2023 19:24:15-======================================

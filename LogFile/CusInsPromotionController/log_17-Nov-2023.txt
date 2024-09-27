@@ -1,0 +1,12 @@
+17-Nov-2023 14:55:14- CusInsightPromotionFilterArea STARTED -17-11-2023 14:55:14
+17-Nov-2023 14:55:14-====================
+17-Nov-2023 14:55:15- CusInsightPromotionFilterArea ENDED - 17-11-2023 14:55:15
+17-Nov-2023 14:55:15-==================
+17-Nov-2023 14:55:54- CusInsightPromotionFilterArea STARTED -17-11-2023 14:55:54
+17-Nov-2023 14:55:54-====================
+17-Nov-2023 14:56:06- CusInsightPromotionFilterArea ENDED - 17-11-2023 14:56:06
+17-Nov-2023 14:56:06-==================
+17-Nov-2023 15:22:44- CusInsightPromotionFilterArea STARTED -17-11-2023 15:22:44
+17-Nov-2023 15:22:44-====================
+17-Nov-2023 15:22:44- CusInsightPromotionFilterArea ENDED - 17-11-2023 15:22:44
+17-Nov-2023 15:22:44-==================

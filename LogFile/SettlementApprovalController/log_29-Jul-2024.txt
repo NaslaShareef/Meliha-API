@@ -1,0 +1,22 @@
+29-Jul-2024 14:57:21-SettlementApprovalCashDetail STARTED 29-07-2024 14:57:21
+29-Jul-2024 14:57:21-======================================
+29-Jul-2024 17:39:30-SettlementApprovalHeader STARTED 29-07-2024 17:39:30
+29-Jul-2024 17:39:30-======================================
+29-Jul-2024 17:40:05-SettlementApprovalHeader STARTED 29-07-2024 17:40:05
+29-Jul-2024 17:40:05-======================================
+29-Jul-2024 17:40:34-SettlementApprovalHeader STARTED 29-07-2024 17:40:34
+29-Jul-2024 17:40:34-======================================
+29-Jul-2024 18:36:01-SettlementApprovalHeader STARTED 29-07-2024 18:36:01
+29-Jul-2024 18:36:01-======================================
+29-Jul-2024 18:36:03-SettlementApprovalHeader  Column 'rot_Type' does not belong to table ListSettlementApprovalHeader.
+29-Jul-2024 18:36:03-SettlementApprovalHeader ENDED 29-07-2024 18:36:03
+29-Jul-2024 18:36:03-======================================
+29-Jul-2024 18:36:24-SettlementApprovalHeader STARTED 29-07-2024 18:36:24
+29-Jul-2024 18:36:24-======================================
+29-Jul-2024 18:36:40-SettlementApprovalPaymodeDetail STARTED 29-07-2024 18:36:40
+29-Jul-2024 18:36:40-======================================
+29-Jul-2024 18:36:40-NoDataRes
+29-Jul-2024 18:36:40-SettlementApprovalPaymodeDetail ENDED 29-07-2024 18:36:40
+29-Jul-2024 18:36:40-======================================
+29-Jul-2024 18:36:48-SettlementApprovalPaymodeDetail STARTED 29-07-2024 18:36:48
+29-Jul-2024 18:36:48-======================================

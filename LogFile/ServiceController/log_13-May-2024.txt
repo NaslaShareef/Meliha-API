@@ -1,0 +1,20 @@
+13-May-2024 16:31:05-InsServiceRequest STARTED 
+13-May-2024 16:31:07-==============================
+13-May-2024 16:31:12-InsServiceRequest-inparas= 12,2,not cooling,6887,763,19247,SR_FS01_000001,Not cooling
+13-May-2024 16:32:26-Object reference not set to an instance of an object.
+13-May-2024 16:32:26-InsServiceRequest ENDED 
+13-May-2024 16:32:26-==========================
+13-May-2024 16:32:45-InsServiceReqstActionTaken STARTED 13-05-2024 16:32:45
+13-May-2024 16:32:45-============================================
+13-May-2024 16:33:31-InsServiceReqstActionTaken actual s & E Time: 0,0
+13-May-2024 16:33:47-Image Received in Httpreq1
+13-May-2024 16:50:50-InsServiceReqstActionTaken STARTED 13-05-2024 16:50:50
+13-May-2024 16:50:51-============================================
+13-May-2024 16:50:55-InsServiceReqstActionTaken actual s & E Time: 0,0
+13-May-2024 16:51:11-Image Received in Httpreq1
+13-May-2024 16:51:14-Physical Path GeneratedE:\TurboSoft\SFAAPI\SFA API\UploadFiles/FieldServiceSign
+13-May-2024 16:51:17-Directory Created
+13-May-2024 16:51:23-Loop Started0
+13-May-2024 16:51:27-Byte array size of image file 0: 57227 bytes
+13-May-2024 16:51:29-ImageFile0051bd0027110b52dd8328b1e56c385f.jpg
+13-May-2024 16:51:30-Loop Ended0

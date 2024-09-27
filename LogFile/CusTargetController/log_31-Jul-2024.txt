@@ -1,0 +1,63 @@
+31-Jul-2024 17:28:24-SelectOutletForAR STARTED -31-07-2024 17:28:24
+31-Jul-2024 17:28:24-====================
+31-Jul-2024 17:28:47-SelectOutletForAR Exception - Object reference not set to an instance of an object.
+31-Jul-2024 17:28:47-SelectOutletForAR ENDED - 31-07-2024 17:28:47
+31-Jul-2024 17:28:47-==================
+31-Jul-2024 17:28:54-SelectOutletForAR STARTED -31-07-2024 17:28:54
+31-Jul-2024 17:28:54-====================
+31-Jul-2024 17:29:56-SelectOutletForAR Exception - Object reference not set to an instance of an object.
+31-Jul-2024 17:29:56-SelectOutletForAR ENDED - 31-07-2024 17:29:56
+31-Jul-2024 17:29:56-==================
+31-Jul-2024 17:30:00-SelectOutletForAR STARTED -31-07-2024 17:30:00
+31-Jul-2024 17:30:00-====================
+31-Jul-2024 17:33:02-SelectOutletForAR Exception - Object reference not set to an instance of an object.
+31-Jul-2024 17:33:02-SelectOutletForAR ENDED - 31-07-2024 17:33:02
+31-Jul-2024 17:33:02-==================
+31-Jul-2024 17:33:11-SelectOutletForAR STARTED -31-07-2024 17:33:11
+31-Jul-2024 17:33:11-====================
+31-Jul-2024 17:37:22-SelectOutletForAR STARTED -31-07-2024 17:37:22
+31-Jul-2024 17:37:22-====================
+31-Jul-2024 17:37:29-SelectOutletForAR STARTED -31-07-2024 17:37:29
+31-Jul-2024 17:37:29-====================
+31-Jul-2024 17:39:37-SelectOutletForAR STARTED -31-07-2024 17:39:37
+31-Jul-2024 17:39:37-====================
+31-Jul-2024 17:40:49-SelectOutletForAR STARTED -31-07-2024 17:40:49
+31-Jul-2024 17:40:49-====================
+31-Jul-2024 17:52:39-SelectOutletForAR STARTED -31-07-2024 17:52:39
+31-Jul-2024 17:52:39-====================
+31-Jul-2024 17:54:20-SelectOutletForAR STARTED -31-07-2024 17:54:20
+31-Jul-2024 17:54:20-====================
+31-Jul-2024 18:03:45-SelectOutletForAR STARTED -31-07-2024 18:03:45
+31-Jul-2024 18:03:45-====================
+31-Jul-2024 18:04:44-SelectOutletForAR STARTED -31-07-2024 18:04:44
+31-Jul-2024 18:04:44-====================
+31-Jul-2024 18:16:17-SelectOutletForAR STARTED -31-07-2024 18:16:17
+31-Jul-2024 18:16:17-====================
+31-Jul-2024 19:08:48-SelectOutletForAR STARTED -31-07-2024 19:08:48
+31-Jul-2024 19:08:48-====================
+31-Jul-2024 19:25:00-SelectOutletForAR STARTED -31-07-2024 19:25:00
+31-Jul-2024 19:25:00-====================
+31-Jul-2024 19:28:35-SelectOutletForAR STARTED -31-07-2024 19:28:35
+31-Jul-2024 19:28:35-====================
+31-Jul-2024 19:30:43-SelectOutletForAR STARTED -31-07-2024 19:30:43
+31-Jul-2024 19:30:43-====================
+31-Jul-2024 19:32:41-SelectOutletForAR STARTED -31-07-2024 19:32:41
+31-Jul-2024 19:32:41-====================
+31-Jul-2024 19:34:33-SelectOutletForAR STARTED -31-07-2024 19:34:33
+31-Jul-2024 19:34:33-====================
+31-Jul-2024 19:38:18-SelectOutletForAR STARTED -31-07-2024 19:38:18
+31-Jul-2024 19:38:18-====================
+31-Jul-2024 19:40:23-SelectOutletForAR STARTED -31-07-2024 19:40:23
+31-Jul-2024 19:40:23-====================
+31-Jul-2024 19:43:48-SelectOutletForAR STARTED -31-07-2024 19:43:48
+31-Jul-2024 19:43:48-====================
+31-Jul-2024 19:48:19-SelectOutletForAR STARTED -31-07-2024 19:48:19
+31-Jul-2024 19:48:19-====================
+31-Jul-2024 19:50:27-SelectOutletForAR STARTED -31-07-2024 19:50:27
+31-Jul-2024 19:50:27-====================
+31-Jul-2024 19:54:10-SelectOutletForAR STARTED -31-07-2024 19:54:10
+31-Jul-2024 19:54:10-====================
+31-Jul-2024 20:01:17-SelectOutletForAR STARTED -31-07-2024 20:01:17
+31-Jul-2024 20:01:17-====================
+31-Jul-2024 20:09:05-SelectOutletForAR STARTED -31-07-2024 20:09:05
+31-Jul-2024 20:09:05-====================

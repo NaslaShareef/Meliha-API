@@ -1,0 +1,12 @@
+14-Nov-2023 20:34:29-CusInvoiceFilterArea STARTED -14-11-2023 20:34:29
+14-Nov-2023 20:34:29-====================
+14-Nov-2023 20:34:46-CusInvoiceFilterSubArea STARTED -14-11-2023 20:34:46
+14-Nov-2023 20:34:46-====================
+14-Nov-2023 20:34:57-CusInvoiceFilterRoute STARTED -14-11-2023 20:34:57
+14-Nov-2023 20:34:57-====================
+14-Nov-2023 20:34:57-CusInvoiceFilterRoute ENDED - 14-11-2023 20:34:57
+14-Nov-2023 20:34:57-==================
+14-Nov-2023 20:35:57-CusInvoiceFilterSubArea STARTED -14-11-2023 20:35:57
+14-Nov-2023 20:35:57-====================
+14-Nov-2023 20:36:10-CusInvoiceFilterRoute STARTED -14-11-2023 20:36:10
+14-Nov-2023 20:36:10-====================
