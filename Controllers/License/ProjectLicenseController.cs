@@ -25,7 +25,6 @@ namespace MVC_API.Controllers.License
 
         DataModel dm = new DataModel();
         string JSONString = string.Empty;
-
         public string GetProjectConsumedLicense([FromForm] ConsumedLicenseIn inputParams)
         {
             dm.TraceService("GetProjectConsumedLicense STARTED");
