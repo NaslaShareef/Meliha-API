@@ -9,6 +9,7 @@ namespace MVC_API.Models
     {
 
     }
+
     public class InsCusInsightHome
     {
         public string UserID { get; set; }
@@ -19,6 +20,7 @@ namespace MVC_API.Models
 
 
     }
+
     public class OutCusInsightHome
     {
         public string Invoice { get; set; }
@@ -32,12 +34,13 @@ namespace MVC_API.Models
 
     public class InsSelectAllCustomerInsight
     {
+
         public string UserID { get; set; }
         public string Area { get; set; }
         public string SubArea { get; set; }
         public string Route { get; set; }
         public string SearchString { get; set; }
-
+        public string Pagenum { get; set; }
 
     }
 
@@ -52,13 +55,14 @@ namespace MVC_API.Models
 
         public string Class_Name { get; set; }
         public string Cus_Type { get; set; }
-        public string rot_ID { get;  set; }
+        public string rot_ID { get; set; }
         public string rot_Code { get; set; }
-        public string rot_Name { get; set;}
+        public string rot_Name { get; set; }
         public string Arcus_Name { get; set; }
         public string ArHeader_Name { get; set; }
         public string Arrot_Name { get; set; }
         public string ArArea_Name { get; set; }
+
     }
 
     public class OutCusInsightProfile
@@ -76,7 +80,7 @@ namespace MVC_API.Models
 
         public string cus_WhatsappNumber { get; set; }
 
-      
+
 
 
 
@@ -89,4 +93,9 @@ namespace MVC_API.Models
         public string cus_ID { get; set; }
     }
 
+    public class OutSelectCustomerInsightCount
+    {
+        public string Total_Count { get; set; }
     }
+
+}

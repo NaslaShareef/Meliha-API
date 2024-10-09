@@ -746,17 +746,14 @@ namespace MVC_API.Controllers
             return JSONString;
         }
 
-        
+
         public string SelVersionDetails([FromForm] VersionDetailIn inputParams)
         {
             dm.TraceService("SelVersionDetails STARTED -" + DateTime.Now);
             dm.TraceService("====================");
-
             try
             {
                 string Type = inputParams.Type == null ? "0" : inputParams.Type;
-
-
                 DataTable dtitem = dm.loadList("SelVersionDetail", "sp_SFA_App", Type.ToString());
 
                 if (dtitem.Rows.Count > 0)
@@ -764,23 +761,18 @@ namespace MVC_API.Controllers
                     List<VersionDetailOut> listItems = new List<VersionDetailOut>();
                     foreach (DataRow dr in dtitem.Rows)
                     {
-
                         listItems.Add(new VersionDetailOut
                         {
                             ver_code = dr["ver_code"].ToString(),
                             ver_name = dr["ver_name"].ToString(),
                             url = dr["redir_url"].ToString(),
                             msg = dr["msg"].ToString(),
-
-
                         });
                     }
-
                     string JSONString = JsonConvert.SerializeObject(new
                     {
                         result = listItems
                     });
-
                     return JSONString;
                 }
                 else
@@ -795,8 +787,6 @@ namespace MVC_API.Controllers
             }
             dm.TraceService("SelVersionDetails ENDED - " + DateTime.Now);
             dm.TraceService("==================");
-
-
             return JSONString;
         }
         public string UpdateCusConnectUserAppVersion([FromForm] CCVersionIn inputParams)

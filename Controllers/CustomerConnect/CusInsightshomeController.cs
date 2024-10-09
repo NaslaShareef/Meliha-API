@@ -34,7 +34,6 @@ namespace MVC_API.Controllers.Customer_Connect
 
         public string CusTransactioCount([FromForm] InsCusInsightHome inputParams)
         {
-
             dm.TraceService("CusTransactioCount STARTED ");
             dm.TraceService("==============================");
             string USRID = inputParams.UserID == null ? "0" : inputParams.UserID;
@@ -42,7 +41,7 @@ namespace MVC_API.Controllers.Customer_Connect
             string FromDate = inputParams.FromDate == null ? "0" : inputParams.FromDate;
             string ToDate = inputParams.ToDate == null ? "0" : inputParams.ToDate;
 
-            string[] arr = { cus_ID,FromDate.ToString(), ToDate.ToString() };
+            string[] arr = { cus_ID, FromDate.ToString(), ToDate.ToString() };
             DataTable dtDN = dm.loadList("SelCusInsightCount", "sp_CustomerConnect", USRID, arr);
             if (dtDN.Rows.Count > 0)
             {
@@ -80,17 +79,17 @@ namespace MVC_API.Controllers.Customer_Connect
             return JSONString;
         }
 
-
         public string SelectAllCustomerInsight([FromForm] InsSelectAllCustomerInsight inputParams)
         {
 
             dm.TraceService("SelectAllCustomerInsight STARTED ");
             dm.TraceService("==============================");
             string USRID = inputParams.UserID == null ? "0" : inputParams.UserID;
-            string Area= inputParams.Area == null ? "0" : inputParams.Area;
-            string SubArea= inputParams.SubArea == null ? "0" : inputParams.SubArea;
-            string Route= inputParams.Route == null ? "0" : inputParams.Route;
+            string Area = inputParams.Area == null ? "0" : inputParams.Area;
+            string SubArea = inputParams.SubArea == null ? "0" : inputParams.SubArea;
+            string Route = inputParams.Route == null ? "0" : inputParams.Route;
             string SearchString = inputParams.SearchString == null ? "0" : inputParams.SearchString;
+            string Pagenum = inputParams.Pagenum == null ? "1" : inputParams.Pagenum;
 
             string MainCondition = "";
             string AreaCondition = "";
@@ -126,8 +125,8 @@ namespace MVC_API.Controllers.Customer_Connect
             MainCondition += SubAreaCondition;
             MainCondition += RouteCondition;
 
-            string[] arry = { MainCondition.ToString(), SearchString.ToString() };
-            DataTable dtDN = dm.loadList("SelectAllCusInsight", "sp_CustomerConnect",USRID,arry);
+            string[] arry = { MainCondition.ToString(), SearchString.ToString(), Pagenum.ToString() };
+            DataTable dtDN = dm.loadList("SelectAllCusInsight", "sp_CustomerConnect", USRID, arry);
             if (dtDN.Rows.Count > 0)
             {
                 List<OutSelectAllCustomerInsight> listDn = new List<OutSelectAllCustomerInsight>();
@@ -149,7 +148,8 @@ namespace MVC_API.Controllers.Customer_Connect
                         Arcus_Name = dr["cus_NameArabic"].ToString(),
                         ArHeader_Name = dr["csh_NameArabic"].ToString(),
                         Arrot_Name = dr["rot_ArabicName"].ToString(),
-                        ArArea_Name = dr["are_NameArabic"].ToString()
+                        ArArea_Name = dr["are_NameArabic"].ToString(),
+
                     });
                 }
                 JSONString = JsonConvert.SerializeObject(new
@@ -170,7 +170,6 @@ namespace MVC_API.Controllers.Customer_Connect
             dm.TraceService("==========================");
             return JSONString;
         }
-
 
         public string CusInsightProfileDetail([FromForm] InCusInsightProfile inputParams)
         {
@@ -225,6 +224,7 @@ namespace MVC_API.Controllers.Customer_Connect
             dm.TraceService("==========================");
             return JSONString;
         }
+
         public string SelectAreaForCusInsHome([FromForm] AreaOutStandingIn inputParams)
         {
             dm.TraceService("SelectAreaForCusInsHome STARTED -" + DateTime.Now);
@@ -276,6 +276,7 @@ namespace MVC_API.Controllers.Customer_Connect
 
             return JSONString;
         }
+
         public string SelectSubAreaForCusInsHome([FromForm] SubAreaOutStandingIn inputParams)
         {
             dm.TraceService("SelectSubAreaForCusInsHome STARTED -" + DateTime.Now);
@@ -287,7 +288,7 @@ namespace MVC_API.Controllers.Customer_Connect
                 string AreaID = inputParams.AreaID == null ? "0" : inputParams.AreaID;
                 string CusID = inputParams.CusID == null ? "0" : inputParams.CusID;
 
-                string[] arr = {AreaID, CusID };
+                string[] arr = { AreaID, CusID };
                 DataTable dt = dm.loadList("SelectSubAreaForCusInsHome", "sp_CustomerConnect", UserID.ToString(), arr);
 
                 if (dt.Rows.Count > 0)
@@ -328,6 +329,7 @@ namespace MVC_API.Controllers.Customer_Connect
 
             return JSONString;
         }
+
         public string SelectRouteForCusInsHome([FromForm] RouteOutStandingIn inputParams)
         {
             dm.TraceService("SelectRouteForCusInsHome STARTED -" + DateTime.Now);
@@ -378,6 +380,84 @@ namespace MVC_API.Controllers.Customer_Connect
             dm.TraceService("==================");
 
 
+            return JSONString;
+        }
+
+        public string SelectCustomerInsightCount([FromForm] InsSelectAllCustomerInsight inputParams)
+        {
+
+            dm.TraceService("SelectCustomerInsightCount STARTED ");
+            dm.TraceService("==============================");
+            string USRID = inputParams.UserID == null ? "0" : inputParams.UserID;
+            string Area = inputParams.Area == null ? "0" : inputParams.Area;
+            string SubArea = inputParams.SubArea == null ? "0" : inputParams.SubArea;
+            string Route = inputParams.Route == null ? "0" : inputParams.Route;
+            string SearchString = inputParams.SearchString == null ? "0" : inputParams.SearchString;
+            string Pagenum = inputParams.Pagenum == null ? "1" : inputParams.Pagenum;
+
+            string MainCondition = "";
+            string AreaCondition = "";
+            string SubAreaCondition = "";
+            string RouteCondition = "";
+
+            if (Area == "0")
+            {
+                AreaCondition = "";
+            }
+            else
+            {
+                AreaCondition = " and dpa_ID in ( " + Area + " )";
+            }
+            if (SubArea == "0")
+            {
+                SubAreaCondition = "";
+            }
+            else
+            {
+                SubAreaCondition = " and dsa_ID in ( " + SubArea + " )";
+            }
+            if (Route == "0")
+            {
+                RouteCondition = "";
+            }
+            else
+            {
+                RouteCondition = " and rot_ID in ( " + Route + " )";
+            }
+
+            MainCondition += AreaCondition;
+            MainCondition += SubAreaCondition;
+            MainCondition += RouteCondition;
+
+            string[] arry = { MainCondition.ToString(), SearchString.ToString(), Pagenum.ToString() };
+            DataTable dtDN = dm.loadList("SelectCusInsightCount", "sp_CustomerConnect", USRID, arry);
+            if (dtDN.Rows.Count > 0)
+            {
+                List<OutSelectCustomerInsightCount> listDn = new List<OutSelectCustomerInsightCount>();
+                foreach (DataRow dr in dtDN.Rows)
+                {
+                    listDn.Add(new OutSelectCustomerInsightCount
+                    {
+
+                        Total_Count = dr["TotalCount"].ToString()
+                    });
+                }
+                JSONString = JsonConvert.SerializeObject(new
+                {
+                    result = listDn
+                });
+
+                return JSONString;
+            }
+            else
+            {
+                JSONString = "NoDataRes";
+                dm.TraceService("NoDataRes");
+            }
+
+
+            dm.TraceService("SelectCustomerInsightCount ENDED ");
+            dm.TraceService("==========================");
             return JSONString;
         }
 
