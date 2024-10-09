@@ -62,8 +62,7 @@ namespace MVC_API.Controllers.License
                                 SFA_AppUserCount = dr["SFA_AppUserCount"].ToString(),
 
                             });
-                        }
-
+                        } 
 
                         try
                         {
